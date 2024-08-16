@@ -11,6 +11,8 @@ public class StringUppercase {
 		Scanner scan = new Scanner(System.in);
 		String input  = scan.next();
 		System.out.println("To uppercase : "+toUppercase(input));
+		
+		System.out.println("To Lowercase : "+toUppercase(input));
 
 	}
 
