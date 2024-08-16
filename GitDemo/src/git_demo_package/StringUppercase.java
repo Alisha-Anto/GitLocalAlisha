@@ -19,5 +19,11 @@ public class StringUppercase {
 		
 		
 	}
+	
+	private static String toLowercase(String input) {
+		return input.toUpperCase();
+		
+		
+	}
 
 }
